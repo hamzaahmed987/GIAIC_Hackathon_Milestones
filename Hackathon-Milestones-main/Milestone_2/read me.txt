@@ -1,1 +1,0 @@
-I have successfully Pushed my code to GitHub and deployed my project to vercel.
